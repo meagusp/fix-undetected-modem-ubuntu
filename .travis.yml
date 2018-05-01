@@ -1,0 +1,6 @@
+language: bash
+
+before_script:
+    - 
+script:
+    - bash fix-undetected-modem.sh
