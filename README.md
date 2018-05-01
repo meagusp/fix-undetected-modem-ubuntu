@@ -7,6 +7,7 @@ This caused by usb_modeswitch version and rules, at this script we will upgraded
 ### Getting Started
 
 Press ``CTRL+ALT+T`` or ``ALT+F2 and type "terminal"``
+``cd Downloads``
 ``wget https://raw.githubusercontent.com/meagusp/fix-undetected-modem-ubuntu/master/fix-undetected-modem.sh``
 ``sudo chmod +x fix-undetected-modem.sh``
 ``./fix-undetected-modem.sh``
